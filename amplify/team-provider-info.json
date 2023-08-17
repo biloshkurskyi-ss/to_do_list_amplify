@@ -10,6 +10,11 @@
       "StackName": "amplify-todolist-staging-164012",
       "StackId": "arn:aws:cloudformation:eu-north-1:764095774913:stack/amplify-todolist-staging-164012/92403e60-3c53-11ee-80a0-0a500ed7d264",
       "AmplifyAppId": "d1rjpcc3lvip0o"
+    },
+    "categories": {
+      "api": {
+        "Todolist": {}
+      }
     }
   }
 }
